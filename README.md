@@ -44,7 +44,7 @@ This project aims to prevent Room Channel from pixelating on modern screens. It 
 - "Go back" button may look odd in some cases.
 
 ## Donations
-Your support enables me to continue enhancing the Wii menu textures, bringing them to life in stunning 4K resolution. Your contribution not only helps me achieve this goal but also encourages my passion for creating and sharing high-quality texture packs with the community. Thank you for believing in my work and making this improvement possible. <br>
+Your support enables me to continue enhancing these texture packs, bringing them to life in stunning 4K resolution. Your contribution not only helps me achieve this goal but also encourages my passion for creating and sharing high-quality texture packs with the community. Thank you for believing in my work and making this improvement possible.
 https://www.patreon.com/c/abur/membership
 
 ## DISCLAIMER
