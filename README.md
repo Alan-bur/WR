@@ -15,23 +15,37 @@ https://github.com/user-attachments/assets/d02c44e2-1981-4d78-96d3-668fc5d7945b
 This project aims to prevent Room Channel from pixelating on modern screens. It works for PC only and it can't be loaded by the real console since it does not support 4k Textures.
 
 ## What has been changed?
-### Physical Spaces
-- Room ⌛
-- Theatre ✅
-### Menu
-- Intro ✅
-- UI ✅
-- Shows ✅
-- Rooms ✅
-- Shop ✅
-- Theatre ✅
-### Others
-- Message Board ✅
-- Send Message ✅
-- Help ✅
-- Settings ✅
-### Extras
-- Christmas Event ✅
+- System
+    - 🕐 Pause Menu
+    - ✅ Fonts
+    - ✅ Keyboard
+    - 🕐 Miis
+- ✅ Intro
+- Menu
+    - ✅ Main Screen
+        - ✅ Media Player
+        - ✅ Rate Video
+        - ✅ Video Lobby
+        - ✅ Send to DSI
+    - ✅ Shows
+    - ✅ Rooms
+    - ✅ Shop
+    - ✅ Theatre
+    - ✅ Guest
+    - ✅ Message Board
+    - ✅ Send Message
+    - ✅ Help
+    - ✅ Settings
+    - Theatre UI
+        - ✅ Purchases
+        - ✅ Search
+- Physical Spaces
+    - 🕐 Room
+    - ✅ Theatre
+- Events
+    - ✅ Christmas
+    - 🕐 Birthday Event
+    - 🕐 Children’s Day
 
 
 ## Installation
@@ -45,12 +59,6 @@ This project aims to prevent Room Channel from pixelating on modern screens. It 
 8. Everything ready to play! 🫧☺️
 
 Still need help? [Watch my video tutorial](https://www.youtube.com/watch?v=TnY6HyZ7034&t=2s) or [join the discord server!](https://discord.gg/6sCNcn3FjV)
-
-## Known Bugs:
-- City background needs some fix up.
-- Characters are not 4K.
-- Guest icon's arm is not placed correctly.
-- "Go back" button may look odd in some cases.
 
 ## Early Access & Donations
 This project and all previous versions are completely free. Support through [Patreon](https://www.patreon.com/c/abur/membership) and [Ko-Fi](https://ko-fi.com/abur) helps fund ongoing development and may provide optional early access to the latest updates. The texture pack itself remains publicly available at no cost. <br>
